@@ -1,0 +1,22 @@
+#page-wrap {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.display-4 {
+    color: white;
+}
+
+.lead {
+    color: cyan;
+    margin: 40px;
+    padding: 10px;
+}
+.list-group-item {
+    color:rgb(59, 118, 122);
+    font-size: 40px;
+}
+
+.jumbotron {
+    height: 100%;
+}

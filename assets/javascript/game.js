@@ -41,9 +41,9 @@ document.onkeypress = function(event) {
     
 
       document.getElementById("wins").innerHTML = "Winner: " + win;
-      document.getElementById("loses").innerHTML = "loser: " + lose;
+      document.getElementById("loses").innerHTML = "Loser: " + lose;
       document.getElementById("attempts").innerHTML = "Attempts left: " + attempt;
-      document.getElementById("guesses").innerHTML = "Letters guessed: " + guess;
+      document.getElementById("guesses").innerHTML = "Letters guessed: [ " + guess + " ]";
 
     
 };
